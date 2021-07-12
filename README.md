@@ -9,3 +9,4 @@
 1. Open CMD and go to the folder consisting the project
 2. Type **node app.js**
 3. Open browser and type **http://localhost:3000/**
+4. The final requested file will be present in the **uploads folder** of the project
